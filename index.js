@@ -62,7 +62,6 @@ const vk = new VK({
   token: process.env.VK_TOKEN,
 });
 global.vk = vk;
-const TicketSystem = require("./engine/ticket_system.js");
 const ticketSystem = new TicketSystem(vk);
 global.ticketSystem = ticketSystem;
 
