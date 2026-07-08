@@ -1,0 +1,31 @@
+{
+  "userid": 1105522539,
+  "reputation": 3,
+  "last_updated": "2026-05-24T12:47:31.817Z",
+  "history": [
+    {
+      "change": -1,
+      "granted_by": 860021783,
+      "timestamp": "2026-05-24T08:33:54.190Z",
+      "new_total": 0
+    },
+    {
+      "change": 1,
+      "granted_by": 860021783,
+      "timestamp": "2026-05-24T08:34:35.296Z",
+      "new_total": 1
+    },
+    {
+      "change": 1,
+      "granted_by": 1036108354,
+      "timestamp": "2026-05-24T12:45:53.308Z",
+      "new_total": 2
+    },
+    {
+      "change": 1,
+      "granted_by": 1036108354,
+      "timestamp": "2026-05-24T12:47:31.817Z",
+      "new_total": 3
+    }
+  ]
+}

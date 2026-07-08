@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": 1783524226519,
+    "adminId": 880366434,
+    "targetId": 1038829897,
+    "actionType": "role",
+    "details": "Назначена роль \"Заместитель Генерального Директора\" с приоритетом 99"
+  },
+  {
+    "timestamp": 1781608642990,
+    "adminId": 880366434,
+    "targetId": -239066195,
+    "actionType": "role",
+    "details": "Назначена роль \"Заместитель Генерального Директора\" с приоритетом 99"
+  },
+  {
+    "timestamp": 1781498308843,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1781498305865,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "mute",
+    "details": "Причина: test. Срок: 6 минут"
+  },
+  {
+    "timestamp": 1781449982812,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1781449932131,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "mute",
+    "details": "Причина: тест. Срок: 30 минут"
+  },
+  {
+    "timestamp": 1781449339220,
+    "adminId": 802588818,
+    "targetId": 802588818,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1781449332245,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "mute",
+    "details": "Причина: тест. Срок: 30 минут"
+  },
+  {
+    "timestamp": 1781449262328,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1781449132391,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "mute",
+    "details": "Причина: тест. Срок: 30 минут"
+  }
+]

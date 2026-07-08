@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": 1783509008732,
+    "adminId": 880366434,
+    "targetId": 623818757,
+    "actionType": "role",
+    "details": "Назначена роль \"Владелец\" с приоритетом 100"
+  },
+  {
+    "timestamp": 1781448620826,
+    "adminId": 623818757,
+    "targetId": 1033617747,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1781448618102,
+    "adminId": 802588818,
+    "targetId": 1033617747,
+    "actionType": "mute",
+    "details": "Причина: пункт 2. Срок: 1 минут"
+  },
+  {
+    "timestamp": 1781448609383,
+    "adminId": 623818757,
+    "targetId": 623818757,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1781448605532,
+    "adminId": 802588818,
+    "targetId": 623818757,
+    "actionType": "mute",
+    "details": "Причина: пункт 2. Срок: 1 минут"
+  },
+  {
+    "timestamp": 1780699716250,
+    "adminId": 880366434,
+    "targetId": -239066195,
+    "actionType": "role",
+    "details": "Назначена роль \"Руководитель\" с приоритетом 80"
+  },
+  {
+    "timestamp": 1780529307982,
+    "adminId": 880366434,
+    "targetId": 1072163395,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1780529243600,
+    "adminId": 880366434,
+    "targetId": 797449748,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1780529075250,
+    "adminId": 880366434,
+    "targetId": 797449748,
+    "actionType": "mute",
+    "details": "Причина: посиди. Срок: 300 минут"
+  },
+  {
+    "timestamp": 1780529046385,
+    "adminId": 880366434,
+    "targetId": 1072163395,
+    "actionType": "mute",
+    "details": "Причина: посиди. Срок: 300 минут"
+  },
+  {
+    "timestamp": 1780424951448,
+    "adminId": 802588818,
+    "targetId": 748503138,
+    "actionType": "ban",
+    "details": "Причина: пункт 8. Срок: 999 дней"
+  },
+  {
+    "timestamp": 1780255071527,
+    "adminId": 802588818,
+    "targetId": 1026930807,
+    "actionType": "ban",
+    "details": "Причина: Без причины. Срок: 999 дней"
+  }
+]

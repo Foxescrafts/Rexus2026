@@ -1,0 +1,34 @@
+[
+  {
+    "priority": 100,
+    "name": "Прародитель пиара"
+  },
+  {
+    "priority": 99,
+    "name": "Owner"
+  },
+  {
+    "priority": 98,
+    "name": " Заместитель Ownera"
+  },
+  {
+    "priority": 97,
+    "name": "Помощник Ownera"
+  },
+  {
+    "priority": 96,
+    "name": "Заместитель Помощник Ownera"
+  },
+  {
+    "priority": 95,
+    "name": " Команда Пиара"
+  },
+  {
+    "priority": 94,
+    "name": "Менеджер"
+  },
+  {
+    "priority": 93,
+    "name": "Заместитель Менеджера"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "timestamp": 1779010770419,
+    "adminId": 880366434,
+    "targetId": 1036108354,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1779010761660,
+    "adminId": 880366434,
+    "targetId": 1036108354,
+    "actionType": "mute",
+    "details": "Причина: Не указана. Срок: 30 минут"
+  },
+  {
+    "timestamp": 1778992928942,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "warn",
+    "details": "Причина: Без причины. Предупреждение: 1/3"
+  },
+  {
+    "timestamp": 1778768791936,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "ban",
+    "details": "Причина: Без причины. Срок: 999 дней"
+  },
+  {
+    "timestamp": 1778768684514,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "ban",
+    "details": "Причина: Без причины. Срок: 999 дней"
+  },
+  {
+    "timestamp": 1778768665197,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "unwarn",
+    "details": "Отменено предупреждение. Осталось: 0/3"
+  },
+  {
+    "timestamp": 1778768646843,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "warn",
+    "details": "Причина: и. Предупреждение: 1/3"
+  },
+  {
+    "timestamp": 1778767952598,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "ban",
+    "details": "Причина: Без причины. Срок: 999 дней"
+  },
+  {
+    "timestamp": 1778767888591,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "kick",
+    "details": "Исключение пользователя из беседы. Причина: Не указана"
+  },
+  {
+    "timestamp": 1778767604840,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "kick",
+    "details": "Исключение пользователя из беседы. Причина: t"
+  },
+  {
+    "timestamp": 1778767374297,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "kick",
+    "details": "Исключение пользователя из беседы. Причина: 11"
+  },
+  {
+    "timestamp": 1778508985374,
+    "adminId": 880366434,
+    "targetId": 689892907,
+    "actionType": "unmute",
+    "details": "Снятие блокировки чата"
+  },
+  {
+    "timestamp": 1778508068504,
+    "adminId": 880366434,
+    "targetId": 689892907,
+    "actionType": "mute",
+    "details": "Причина: test. Срок: 60 минут"
+  },
+  {
+    "timestamp": 1778507998375,
+    "adminId": 880366434,
+    "targetId": 90,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1778507981997,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1778507949903,
+    "adminId": 880366434,
+    "targetId": 90,
+    "actionType": "mute",
+    "details": "Причина: Не указана. Срок: 1 минут"
+  },
+  {
+    "timestamp": 1778507679329,
+    "adminId": 880366434,
+    "targetId": 600,
+    "actionType": "mute",
+    "details": "Причина: 999. Срок: 1 минут"
+  },
+  {
+    "timestamp": 1778507572776,
+    "adminId": 880366434,
+    "targetId": 689892907,
+    "actionType": "mute",
+    "details": "Причина: 300. Срок: 1 минут"
+  },
+  {
+    "timestamp": 1778507517015,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "mute",
+    "details": "Причина: Не указана. Срок: 30 минут"
+  },
+  {
+    "timestamp": 1778507497511,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1778507481915,
+    "adminId": 880366434,
+    "targetId": 802588818,
+    "actionType": "mute",
+    "details": "Причина: Не указана. Срок: 30 минут"
+  },
+  {
+    "timestamp": 1778507170977,
+    "adminId": 802588818,
+    "targetId": 689892907,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1778505275952,
+    "adminId": 880366434,
+    "targetId": 689892907,
+    "actionType": "mute",
+    "details": "Причина: Не указана. Срок: 999 минут"
+  },
+  {
+    "timestamp": 1778454903941,
+    "adminId": 880366434,
+    "targetId": 689892907,
+    "actionType": "role",
+    "details": "Назначена роль \"Модератор\" с приоритетом 20"
+  }
+]

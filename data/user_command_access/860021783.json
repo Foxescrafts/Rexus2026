@@ -1,0 +1,9 @@
+{
+  "sysrole": true,
+  "notif": true,
+  "giveadm": false,
+  "sysban": true,
+  "unsysban": true,
+  "edit": true,
+  "givezam": false
+}

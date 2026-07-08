@@ -1,0 +1,163 @@
+[
+  {
+    "timestamp": 1779448545088,
+    "adminId": 716952912,
+    "targetId": -182711509,
+    "actionType": "ban",
+    "details": "Причина: Без причины. Срок: 999 дней"
+  },
+  {
+    "timestamp": 1779448297519,
+    "adminId": 860021783,
+    "targetId": 885077543,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1779448284430,
+    "adminId": 716952912,
+    "targetId": 885077543,
+    "actionType": "unmute",
+    "details": "Снятие мута через кнопку"
+  },
+  {
+    "timestamp": 1779448280739,
+    "adminId": 716952912,
+    "targetId": 885077543,
+    "actionType": "mute",
+    "details": "Причина: Не указана. Срок: 1000 минут"
+  },
+  {
+    "timestamp": 1779447756852,
+    "adminId": 716952912,
+    "targetId": 885077543,
+    "actionType": "role",
+    "details": "Назначена роль \"Администратор\" с приоритетом 40"
+  },
+  {
+    "timestamp": 1779277829567,
+    "adminId": 716952912,
+    "targetId": 868400705,
+    "actionType": "role",
+    "details": "Назначена роль \"Администратор\" с приоритетом 40"
+  },
+  {
+    "timestamp": 1779277815619,
+    "adminId": 716952912,
+    "targetId": 553603891,
+    "actionType": "ban",
+    "details": "Причина: Выход. Срок: 30 дней"
+  },
+  {
+    "timestamp": 1779276562857,
+    "adminId": 716952912,
+    "targetId": 1051816971,
+    "actionType": "role",
+    "details": "Назначена роль \"Руководитель\" с приоритетом 80"
+  },
+  {
+    "timestamp": 1779274238405,
+    "adminId": 716952912,
+    "targetId": 821011267,
+    "actionType": "ban",
+    "details": "Причина: Выход. Срок: 5 дней"
+  },
+  {
+    "timestamp": 1779210190331,
+    "adminId": 716952912,
+    "targetId": 1051816971,
+    "actionType": "role",
+    "details": "Назначена роль \"Руководитель\" с приоритетом 80"
+  },
+  {
+    "timestamp": 1779166499055,
+    "adminId": 860021783,
+    "targetId": 819264421,
+    "actionType": "kick",
+    "details": "Исключение пользователя из беседы. Причина: Не указана"
+  },
+  {
+    "timestamp": 1779166490331,
+    "adminId": 860021783,
+    "targetId": 689884587,
+    "actionType": "kick",
+    "details": "Исключение пользователя из беседы. Причина: Не указана"
+  },
+  {
+    "timestamp": 1779142184991,
+    "adminId": 716952912,
+    "targetId": 881327446,
+    "actionType": "role",
+    "details": "Назначена роль \"Спец. Администратор\" с приоритетом 60"
+  },
+  {
+    "timestamp": 1779140038188,
+    "adminId": 716952912,
+    "targetId": 1108593786,
+    "actionType": "ban",
+    "details": "Причина: Без причины. Срок: 999 дней"
+  },
+  {
+    "timestamp": 1779044482718,
+    "adminId": 716952912,
+    "targetId": 830554306,
+    "actionType": "role",
+    "details": "Назначена роль \"Руководитель\" с приоритетом 80"
+  },
+  {
+    "timestamp": 1779044457632,
+    "adminId": 716952912,
+    "targetId": 1061831524,
+    "actionType": "kick",
+    "details": "Исключение пользователя из беседы. Причина: Не указана"
+  },
+  {
+    "timestamp": 1779017063840,
+    "adminId": 716952912,
+    "targetId": -234194621,
+    "actionType": "role",
+    "details": "Назначена роль \"Руководитель\" с приоритетом 80"
+  },
+  {
+    "timestamp": 1779016243865,
+    "adminId": 716952912,
+    "targetId": 860021783,
+    "actionType": "role",
+    "details": "Назначена роль \"Спец. Администратор\" с приоритетом 60"
+  },
+  {
+    "timestamp": 1779016169146,
+    "adminId": 716952912,
+    "targetId": 1059843086,
+    "actionType": "role",
+    "details": "Назначена роль \"Руководитель\" с приоритетом 80"
+  },
+  {
+    "timestamp": 1779016134095,
+    "adminId": 860021783,
+    "targetId": 1059843086,
+    "actionType": "role",
+    "details": "Снята роль \"Руководитель\", установлен приоритет 0"
+  },
+  {
+    "timestamp": 1779016125576,
+    "adminId": 716952912,
+    "targetId": 1059843086,
+    "actionType": "role",
+    "details": "Назначена роль \"Руководитель\" с приоритетом 80"
+  },
+  {
+    "timestamp": 1779016075134,
+    "adminId": 716952912,
+    "targetId": 1051816971,
+    "actionType": "role",
+    "details": "Назначена роль \"Руководитель\" с приоритетом 80"
+  },
+  {
+    "timestamp": 1779015733818,
+    "adminId": 716952912,
+    "targetId": 830554306,
+    "actionType": "role",
+    "details": "Назначена роль \"Руководитель\" с приоритетом 80"
+  }
+]

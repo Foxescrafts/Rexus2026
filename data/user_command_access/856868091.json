@@ -1,0 +1,7 @@
+{
+  "sysrole": true,
+  "sysban": true,
+  "unsysban": true,
+  "givemoney": false,
+  "notif": true
+}

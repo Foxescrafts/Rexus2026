@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": 1778412174251,
+    "adminId": 689892907,
+    "targetId": 880366434,
+    "actionType": "unwarn",
+    "details": "Отменено предупреждение. Осталось: 0/3"
+  },
+  {
+    "timestamp": 1778412162829,
+    "adminId": 689892907,
+    "targetId": 880366434,
+    "actionType": "warn",
+    "details": "Причина: TEST. Предупреждение: 1/3"
+  },
+  {
+    "timestamp": 1778411230458,
+    "adminId": 880366434,
+    "targetId": 880366434,
+    "actionType": "unwarn",
+    "details": "Отменено предупреждение. Осталось: 0/3"
+  },
+  {
+    "timestamp": 1778411222997,
+    "adminId": 802588818,
+    "targetId": 880366434,
+    "actionType": "warn",
+    "details": "Причина: 9ug6. Предупреждение: 1/3"
+  },
+  {
+    "timestamp": 1778410900080,
+    "adminId": 880366434,
+    "targetId": 880366434,
+    "actionType": "unwarn",
+    "details": "Отменено предупреждение. Осталось: 0/3"
+  },
+  {
+    "timestamp": 1778410895915,
+    "adminId": 802588818,
+    "targetId": 880366434,
+    "actionType": "warn",
+    "details": "Причина: 9ju. Предупреждение: 1/3"
+  },
+  {
+    "timestamp": 1778410428202,
+    "adminId": 880366434,
+    "targetId": 880366434,
+    "actionType": "unwarn",
+    "details": "Отменено предупреждение. Осталось: 0/3"
+  },
+  {
+    "timestamp": 1778410406353,
+    "adminId": 802588818,
+    "targetId": 880366434,
+    "actionType": "warn",
+    "details": "Причина: 875h. Предупреждение: 1/3"
+  },
+  {
+    "timestamp": 1778408731927,
+    "adminId": 880366434,
+    "targetId": 880366434,
+    "actionType": "unwarn",
+    "details": "Отменено предупреждение. Осталось: 0/3"
+  },
+  {
+    "timestamp": 1778408730218,
+    "adminId": 802588818,
+    "targetId": 880366434,
+    "actionType": "warn",
+    "details": "Причина: tets. Предупреждение: 1/3"
+  },
+  {
+    "timestamp": 1778408679967,
+    "adminId": 802588818,
+    "targetId": 880366434,
+    "actionType": "ban",
+    "details": "Причина: Без причины. Срок: 999 дней"
+  }
+]

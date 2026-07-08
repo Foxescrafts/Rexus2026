@@ -1,0 +1,19 @@
+{
+  "userid": 868400705,
+  "reputation": 2,
+  "last_updated": "2026-05-20T11:49:40.056Z",
+  "history": [
+    {
+      "change": 1,
+      "granted_by": 716952912,
+      "timestamp": "2026-05-20T11:49:18.478Z",
+      "new_total": 1
+    },
+    {
+      "change": 1,
+      "granted_by": 716952912,
+      "timestamp": "2026-05-20T11:49:40.056Z",
+      "new_total": 2
+    }
+  ]
+}

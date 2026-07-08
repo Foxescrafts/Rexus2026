@@ -1,0 +1,19 @@
+{
+  "userid": 1036061645,
+  "reputation": 1,
+  "last_updated": "2026-05-16T11:27:32.050Z",
+  "history": [
+    {
+      "change": -1,
+      "granted_by": 860021783,
+      "timestamp": "2026-05-16T11:27:14.290Z",
+      "new_total": 0
+    },
+    {
+      "change": 1,
+      "granted_by": 767140000,
+      "timestamp": "2026-05-16T11:27:32.050Z",
+      "new_total": 1
+    }
+  ]
+}

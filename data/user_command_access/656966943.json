@@ -1,0 +1,9 @@
+{
+  "sysrole": false,
+  "пополнить": true,
+  "notif": true,
+  "edit": false,
+  "giveadm": false,
+  "giveagent": true,
+  "null": false
+}

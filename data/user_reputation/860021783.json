@@ -1,0 +1,67 @@
+{
+  "userid": 860021783,
+  "reputation": 4,
+  "last_updated": "2026-05-24T08:34:20.267Z",
+  "history": [
+    {
+      "change": 1,
+      "granted_by": 689892907,
+      "timestamp": "2026-05-16T10:11:27.541Z",
+      "new_total": 1
+    },
+    {
+      "change": 1,
+      "granted_by": 802588818,
+      "timestamp": "2026-05-16T11:18:32.086Z",
+      "new_total": 2
+    },
+    {
+      "change": 1,
+      "granted_by": 1036061645,
+      "timestamp": "2026-05-16T11:18:41.681Z",
+      "new_total": 3
+    },
+    {
+      "change": -1,
+      "granted_by": 767140000,
+      "timestamp": "2026-05-16T11:27:23.968Z",
+      "new_total": 2
+    },
+    {
+      "change": -1,
+      "granted_by": 1036061645,
+      "timestamp": "2026-05-16T11:27:50.004Z",
+      "new_total": 1
+    },
+    {
+      "change": 1,
+      "granted_by": 802588818,
+      "timestamp": "2026-05-16T11:28:08.483Z",
+      "new_total": 2
+    },
+    {
+      "change": 1,
+      "granted_by": 168976015,
+      "timestamp": "2026-05-16T14:46:44.830Z",
+      "new_total": 3
+    },
+    {
+      "change": 1,
+      "granted_by": 802588818,
+      "timestamp": "2026-05-17T16:41:21.249Z",
+      "new_total": 4
+    },
+    {
+      "change": -1,
+      "granted_by": 1105522539,
+      "timestamp": "2026-05-24T08:34:00.994Z",
+      "new_total": 3
+    },
+    {
+      "change": 1,
+      "granted_by": 1105522539,
+      "timestamp": "2026-05-24T08:34:20.267Z",
+      "new_total": 4
+    }
+  ]
+}
